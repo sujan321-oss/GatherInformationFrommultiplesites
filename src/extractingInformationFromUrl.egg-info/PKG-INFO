@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: extractingInformationFromUrl
+Version: 0.0.0
+Summary: A small python package for Gathering the information fro multiple url
+Home-page: https://github.com/sujan321-oss/GatherInformationFrommultiplesites
+Author: sujan321-oss
+Author-email: khumapokharel2076@gmail.com
+Project-URL: Bug Tracker, https://github.com/sujan321-oss/GatherInformationFrommultiplesites/issues
+
+### Gather the information by providing the link and the the related questions 
+
